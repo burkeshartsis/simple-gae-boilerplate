@@ -13,14 +13,14 @@ What it does have:
 - Set up for base handlers (universal/site wide handlers)
 - Jinja2 templating
 - HTML5 Boilerplate
-	js
+	- js
 		- jQuery 1.9.1 minimized
 		- Modernizr 2.6.2 minimized
 		- Respond1.1.0 minimized
-	css
+	- css
 		- Normalize
 		- Normalize minimized
-	HTML
+	- HTML
 		- IE html tag classes
 - Best practice App Engine folder structure
 
